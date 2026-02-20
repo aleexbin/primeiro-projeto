@@ -6,8 +6,6 @@ Este é um projeto inicial de estudos de programação. Foi desenvolvido com **H
 
 Você pode acessar e visualizar o meu primeiro projeto através do link abaixo:
 
-https://github.com/aleexbin/primeiro-projeto/settings/pages
-
 ## Tecnologias Utilizadas
 
 - **HTML** estrutura do conteúdo.
